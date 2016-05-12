@@ -1,0 +1,57 @@
+<!--タグ -->
+<resources>
+    <string name="app_name">UranaiApp</string>
+
+    <!--TextViewに表示する文字列-->
+    <string name="main_txv_title">占いアプリ</string>
+    <string name="main_txv_name">名前</string>
+    <string name="main_txv_birthday">生年月日</string>
+    <string name="main_txv_year">年</string>
+    <string name="main_txv_month">月</string>
+    <string name="main_txv_day">日</string>
+    <string name="main_txv_gender">性別</string>
+
+    <!--Buttonに表示する文字列-->
+    <string name="main_btn_divine">占う</string>
+    <string name="main_btn_init">取り消し</string>
+
+    <!--性別データ-->
+    <string name="main_radio_btn_male">男性</string>
+    <string name="main_radio_btn_female">女性</string>
+
+    <string-array name="main_spn_era">
+        <item>明治</item>
+        <item>大正</item>
+        <item>昭和</item>
+        <item>平成</item>
+    </string-array>
+
+    <!--占い結果データ-->
+
+
+    <string-array name="result_txv_divine_data">
+        <item>いいことが起きるでしょう！\行ったことのない所へ足を運んでみるのもグッド！</item>
+        <item>最悪の1日になるでしょう！\無茶はしないように</item>
+        <item>微妙な1日になるでしょう！\n好きな音楽を聴いて気分を盛り上げて♪</item>
+        <item>普通の1日になるでしょう！\nお気に入りの入浴剤でリラックス♪</item>
+        <item>大きな決断をするでしょう！\n直感を信じて見て</item>
+        <item>異性に告白されるでしょう！\n答えはハッキリしましょう</item>
+        <item>落とし物をするでしょう！\n電車を降りるときは要注意！</item>
+        <item>忘れ物をするでしょう！\nコーヒーを飲んで頭をシャッキリさせて</item>
+        <item>問題を解決できるでしょう！\nみんなから注目を浴びるかも</item>
+        <item>周りに振り回されるでしょう！\n嫌なことはキッパリ断って</item>
+    </string-array>
+
+    <string-array name="result_txv_divine_data2">
+        <item>ラッキースポット\n噴水のある公園</item>
+        <item>ラッキーアイテム\n赤いバッグ</item>
+        <item>ラッキーフード\n南国のフルーツ</item>
+        <item>ラッキーパーソン\n高校時代の友人</item>
+        <item>ラッキースポット\n活気のある商店街</item>
+        <item>ラッキーアイテム\n緑の靴下</item>
+        <item>ラッキーフード\nとんこつラーメン</item>
+        <item>ラッキーパーソン\nスニーカーを履いた異性</item>
+        <item>ラッキースポット\n近所のパン屋</item>
+        <item>ラッキーフード\nソフトクリーム</item>
+    </string-array>
+</resources><!--タグの終わり-->
